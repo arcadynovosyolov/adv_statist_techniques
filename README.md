@@ -11,3 +11,4 @@ In this repository we present the following techniques:
 4. Non-parametric estimation, including kernel regression
 5. Quantile regression
 6. Bayesian inference
+  - simple example of Bayesian inference, (https://github.com/arcadynovosyolov/adv_statist_techniques/blob/master/bayesian_analysis/simple_bayes.ipynb)
